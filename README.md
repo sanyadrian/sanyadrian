@@ -1,15 +1,10 @@
 ![Header](https://github.com/sanyadrian/sanyadrian/blob/main/banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Oleksandr Adrianov</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+<h3 align="center">A passionate developer from USA</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m getting **AWS certified developer associate**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **adrianovoleksandr@gmail.com**
 
